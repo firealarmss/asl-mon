@@ -11,7 +11,7 @@ $headerConf['xlxRefEn'] = false;
 $headerConf['p25RefEn'] = false;
 $headerConf['ysfRefEn'] = false;
 $headerConf['dvsEn'] = false;
-$headerConf['m17RefEn'] = true;
+$headerConf['m17RefEn'] = false;
 //
 //  Allstarlink Configuration
 $asl_config['nodes'] = ['1998', '1999'];
