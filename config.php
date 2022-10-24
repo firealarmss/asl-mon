@@ -14,8 +14,8 @@ $headerConf['dvsEn'] = false;
 $headerConf['m17RefEn'] = true;
 //
 //  Allstarlink Configuration
-$asl_config['nodes'] = ['57219', '560380', '560381', '560382'];
-$asl_config['AMI_PASS'] = ['Allentown11'];
+$asl_config['nodes'] = ['1998', '1999'];
+$asl_config['AMI_PASS'] = ['password'];
 $asl_config['AMI_USER'] = ['admin'];
 $asl_config['AMI_HOST'] = ['127.0.0.1'];
 $asl_config['AMI_PASS'] = ['5038'];
