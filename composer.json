@@ -1,0 +1,6 @@
+{
+{
+    "require": {  
+        "marcelog/pami": "dev-master"  
+    }  
+}
